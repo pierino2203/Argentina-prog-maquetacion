@@ -1,0 +1,45 @@
+.p{
+    font-size: 100px;
+}
+.imgC{
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 14.375rem;
+    width: 382px;
+    height: auto;
+    color: white;
+}
+.container{
+    background-image: url(../imagenes/back-div.jpg);
+    /* background-size: cover;
+    background-attachment: fixed;
+    height: 100vh; */
+}
+.imgAbout{
+    width: 93vh;
+    height: auto;
+}
+
+.container1{
+    background-color: aliceblue;
+    height: 100vh;
+}
+.rowForm{
+    align-items: center;
+    justify-content: center;
+}
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {  }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  }
