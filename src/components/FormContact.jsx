@@ -90,11 +90,11 @@ export function FormContact(){
           </div>
           <div class="mb-3">
             <label for="exampleInputPassword1" class="form-label">Asunto</label>
-            <input type="password" class="form-control" id="exampleInputPassword1"/>
+            <input type="text" class="form-control" id="exampleInputPassword1"/>
           </div>
           <div class="mb-3">
             <label for="exampleInputPassword1" class="form-label">Mensaje</label>
-            <input type="password" class="form-control" id="exampleInputPassword1"/>
+            <input type="text" class="form-control" id="exampleInputPassword1"/>
           </div>
           <div className="text-center">
             <NavLink to='/respuesta'><button type="submit" class="btn btn-primary">Submit</button></NavLink>
