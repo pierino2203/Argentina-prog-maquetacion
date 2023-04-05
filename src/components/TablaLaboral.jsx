@@ -22,14 +22,14 @@ export function TablaLaboral(){
             <tr>
               <td>1</td>
               <td>Compumax</td>
-              <td>Venta de insumos de computacion-Atencion al publico</td>
+              <td>Venta de insumos de computacion-Atenciòn al publico</td>
               <td>Septiembre 2019 - Julio 2020</td>
               <td>+5411346555666</td>
             </tr>
             <tr>
               <td>2</td>
               <td>El Porvenir S.R.L</td>
-              <td>Mantenimiento de Sistemas-Reparacion de PC</td>
+              <td>Mantenimiento de Sistemas-Reparaciòn de PC</td>
               <td>Septiembre 2020 - Julio 2022</td>
               <td>+5411346555666</td>
             </tr>       
